@@ -1,8 +1,27 @@
 # 苏黎世无人机 GPS / IMU 融合定位实验
 
+> 课程《多传感器智能信息融合》期末大作业 · 仓库地址：https://github.com/zman03711-max/zurich-uas-gps-imu-fusion
+
 本项目对应课程图片中的实验要求及四类选做加分项。正式计算在 Angel_Hangzhou 的 `/home/wy/agz_fusion_20261118_6604` 完成，使用 CPU，未使用 H20 训练模型。本次交付包含代码、真实小样本、全部结果及复现记录。
 
-数据来自AGZ.zip数据集。本次只提取并上传 GPS、原始加速度、原始角速度、位置真值与气压日志，压缩传输约 4MB，未重新下载 AGZ。气压仅作数据审计，不计入融合输入。核心融合使用 GPS 与 IMU 两类传感器；相机图像本次没有作为算法输入。
+**分工**：吴燕、潘妍、陈可欣（实验组）负责数据处理、方法实现、实验运行、结果分析与绘图；张满制作总结 PPT；赵春晓撰写技术报告。
+
+## 快速开始（3 步跑通小样本）
+
+环境要求：Python 3.12（小样本无需 GPU 或 C++ 编译器）。
+
+```bash
+# 1. 创建虚拟环境
+python -m venv .venv
+# 2. 安装依赖（Windows 用 .venv\Scripts\python.exe）
+.venv/bin/python -m pip install -r requirements.txt
+# 3. 运行小样本 demo（正常 / GPS 中断 / 位置噪声 / 到达延迟 四条件 × 三方法 = 12 次实验）
+.venv/bin/python workflow.py --demo
+```
+
+结果写入 `results_demo/`。完整 Linux 复现入口为 `.venv/bin/python workflow.py`，详见下文。
+
+数据来自 AGZ.zip 数据集。本次只提取并上传 GPS、原始加速度、原始角速度、位置真值与气压日志，压缩传输约 4MB，未重新下载 AGZ。气压仅作数据审计，不计入融合输入。核心融合使用 GPS 与 IMU 两类传感器；相机图像本次没有作为算法输入。
 
 ## 结果
 
