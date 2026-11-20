@@ -1,0 +1,12 @@
+{
+  "runs": 2232,
+  "scenarios": 248,
+  "methods": 9,
+  "failed_runs": 0,
+  "min_coverage": 1.0,
+  "max_filterpy_difference": 1.1368683772161605e-13,
+  "independent_test_segments": 4,
+  "seed_repetitions": 5,
+  "reference_not_input": true,
+  "shared_inputs_verified": true
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "command": [
+      "/home/wy/agz_fusion_20261118_6604/.venv/bin/python",
+      "code/test_pipeline.py"
+    ],
+    "exit_code": 0,
+    "wall_s": 0.9720430332235992
+  },
+  {
+    "command": [
+      "/home/wy/agz_fusion_20261118_6604/.venv/bin/python",
+      "code/demo.py"
+    ],
+    "exit_code": 0,
+    "wall_s": 2.1904932409524918
+  }
+]

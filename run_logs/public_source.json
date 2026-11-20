@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/i2Nav-WHU/KF-GINS",
+  "commit": "8291a93e49de513fe9d21f819500d39082ded611",
+  "original_archive_sha256": "6ca9032ad344bb635c74fb9d142c65da0a5fed92a2d2e8e028fb58c2e8d15f42",
+  "code_archive_sha256": "313a7108cddf6aa24472d96d4077d9275ac8b63c9bb4120aa782c13bf5e19936",
+  "excluded_from_code_bundle": [
+    "dataset/",
+    "docs/"
+  ]
+}

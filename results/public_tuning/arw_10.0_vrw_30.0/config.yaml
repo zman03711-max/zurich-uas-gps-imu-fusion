@@ -1,0 +1,77 @@
+imupath: /home/wy/agz_fusion_20261118_6604/results/public_tuning/arw_10.0_vrw_30.0/imu.txt
+gnsspath: /home/wy/agz_fusion_20261118_6604/results/public_tuning/arw_10.0_vrw_30.0/gnss.txt
+outputpath: /home/wy/agz_fusion_20261118_6604/results/public_tuning/arw_10.0_vrw_30.0
+imudatalen: 7
+imudatarate: 10
+starttime: 7.0
+endtime: 67.0
+initpos:
+- 47.38436524822709
+- 8.545203396519831
+- 465.9537658942542
+initvel:
+- 0.969999969
+- 0.5
+- 0.98999995
+initatt:
+- 2.4297528144499796
+- -1.8331983836825243
+- 27.269472734183665
+initgyrbias:
+- 0.0
+- 0.0
+- 0.0
+initaccbias:
+- 0.0
+- 0.0
+- 0.0
+initgyrscale:
+- 0.0
+- 0.0
+- 0.0
+initaccscale:
+- 0.0
+- 0.0
+- 0.0
+initposstd:
+- 3.0
+- 3.0
+- 3.0
+initvelstd:
+- 1.0
+- 1.0
+- 1.0
+initattstd:
+- 10.0
+- 10.0
+- 90.0
+imunoise:
+  arw:
+  - 10.0
+  - 10.0
+  - 10.0
+  vrw:
+  - 30.0
+  - 30.0
+  - 30.0
+  gbstd:
+  - 1000.0
+  - 1000.0
+  - 1000.0
+  abstd:
+  - 5000.0
+  - 5000.0
+  - 5000.0
+  gsstd:
+  - 300.0
+  - 300.0
+  - 300.0
+  asstd:
+  - 300.0
+  - 300.0
+  - 300.0
+  corrtime: 1.0
+antlever:
+- 0.0
+- 0.0
+- 0.0

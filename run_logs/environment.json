@@ -1,0 +1,22 @@
+{
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-6.8.0-63-generic-x86_64-with-glibc2.39",
+  "cpu": "x86_64",
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "pyproj": "3.7.1",
+    "matplotlib": "3.10.1",
+    "filterpy": "1.4.5"
+  },
+  "input_sha256": {
+    "gps.csv": "da992bb23d89062d4b83971a12253fe88f8e04db876204e8f0ff3d0aab8a4c99",
+    "imu.csv": "7ce672a5ec55f238b20c23909a5eac7aa4596b40cde16671dd0d27af4ceadff6",
+    "reference.csv": "9541dcfe743eb76e59974d680f65d5e497c6b182e3a23a4cc149083b47d25065"
+  },
+  "code_sha256": "7defbe4bf67dd67a8fd4eb2280ef1d78dac4d528c4a6afb09443e4df18b03dff",
+  "total_s": 236.00209778826684,
+  "scope": "raw IMU under explicitly adopted FRD/NED conventions; no use of OnboardPose or reference attitude",
+  "timing": "per method: attitude, prediction, update and output construction; excludes loading, disturbance and scoring"
+}

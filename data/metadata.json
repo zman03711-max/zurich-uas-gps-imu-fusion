@@ -1,0 +1,71 @@
+{
+  "source": "/home/wy/agz_fusion_20261118_6604/data/AGZ",
+  "archive_image_count": 0,
+  "archive_check": "image inventory only; CRC checked for consumed members, not image payloads",
+  "sha256_logs": {
+    "OnboardGPS.csv": "8e58193ea9ff4e085a61241a66179d46f66110074d59cc1b97a7167fca1181a5",
+    "RawAccel.csv": "2609d0d936c75c7ed2566b258f87c7508faa28848e5cd366f55fbf069e557c11",
+    "RawGyro.csv": "3d39a569265dcc9682fe254c5246a7b7b84c14f338c29a99f25d435d683d7bec",
+    "GroundTruthAGL.csv": "50e95abc70461567a915a76ba17231ae3088b834dbcb433737135eacb9c9c552",
+    "BarometricPressure.csv": "747c8063bcaa75b5922efafa655f11f6d04ee2fb804d0240bbbd010aff6261cf"
+  },
+  "t0_us": 7009129,
+  "origin_utm32n_m": [
+    465670.70684739866,
+    5247978.033436624
+  ],
+  "crs": "EPSG:32632",
+  "lat_lon_scale": 1.0,
+  "reference_total": 2708,
+  "reference_matched": 2706,
+  "ambiguous_imgids": [],
+  "projection_median_m": 0.4368546585911586,
+  "projection_max_m": 12.582380863751514,
+  "consecutive_repeated_gps_solutions": 67626,
+  "gps_output_rows": 2667,
+  "imu_valid_rows": 27050,
+  "imu_total_rows": 27050,
+  "accel_norm_median_raw": 9.264601093390265,
+  "conventions_verified": false,
+  "config": {
+    "gps_period_s": 1.0,
+    "imu_match_tolerance_s": 0.15,
+    "max_imu_gap_s": 0.35,
+    "output_period_s": 0.1,
+    "position_weight": 0.2,
+    "velocity_weight": 0.2,
+    "accel_scale": 1.0,
+    "gyro_scale": 1.0,
+    "body_rotation": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "accel_bias_m_s2": [
+      0,
+      0,
+      0
+    ],
+    "gyro_bias_rad_s": [
+      0,
+      0,
+      0
+    ],
+    "initial_quaternion_xyzw": null,
+    "initial_attitude_source": "Raw causal acceleration tilt, GPS course for approximate initial yaw; no OnboardPose",
+    "conventions_verified": false,
+    "verification_evidence": "FRD/NED and units adopted as PX4 modeling assumptions; mounting and absolute yaw not independently calibrated"
+  }
+}

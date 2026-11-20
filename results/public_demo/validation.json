@@ -1,0 +1,7 @@
+{
+  "scope": "official data subset 456300-456360 s; functional reproduction, not all paper tables",
+  "rows": 11999,
+  "horizontal_rmse_m": 0.006179499389154014,
+  "vertical_rmse_m": 0.004246472206950771,
+  "cpp_end_to_end_s": 0.24670960195362568
+}

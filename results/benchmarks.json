@@ -1,0 +1,488 @@
+[
+  {
+    "method": "gps_only",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "gps_only",
+        "repeat": 1,
+        "wall_s": 0.02544554090127349,
+        "cpu_s": 0.02544671300000001,
+        "event_latency_p50_ms": 0.01773843541741371,
+        "event_latency_p95_ms": 0.03473933320492506,
+        "realtime_factor": 2357.976992228023
+      },
+      {
+        "method": "gps_only",
+        "repeat": 2,
+        "wall_s": 0.02509235590696335,
+        "cpu_s": 0.025092875000000014,
+        "event_latency_p50_ms": 0.01767510548233986,
+        "event_latency_p95_ms": 0.03470007795840501,
+        "realtime_factor": 2391.1664660929455
+      },
+      {
+        "method": "gps_only",
+        "repeat": 3,
+        "wall_s": 0.025205690879374743,
+        "cpu_s": 0.02520671299999999,
+        "event_latency_p50_ms": 0.01774681732058525,
+        "event_latency_p95_ms": 0.034613278694450855,
+        "realtime_factor": 2380.414815334289
+      },
+      {
+        "method": "gps_only",
+        "repeat": 4,
+        "wall_s": 0.025702137034386396,
+        "cpu_s": 0.02570305400000006,
+        "event_latency_p50_ms": 0.017720041796565056,
+        "event_latency_p95_ms": 0.035053608007729053,
+        "realtime_factor": 2334.436234610653
+      },
+      {
+        "method": "gps_only",
+        "repeat": 5,
+        "wall_s": 0.02561847772449255,
+        "cpu_s": 0.02561899099999998,
+        "event_latency_p50_ms": 0.017748679965734482,
+        "event_latency_p95_ms": 0.03477721475064754,
+        "realtime_factor": 2342.0595339525967
+      }
+    ],
+    "process_peak_rss_mib": 137.35546875,
+    "traced_allocation_peak_mib": 0.2646980285644531,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "fixed_gain",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "fixed_gain",
+        "repeat": 1,
+        "wall_s": 0.09664943581447005,
+        "cpu_s": 0.09664964099999995,
+        "event_latency_p50_ms": 0.07319473661482334,
+        "event_latency_p95_ms": 0.09379661642014979,
+        "realtime_factor": 620.8003129493384
+      },
+      {
+        "method": "fixed_gain",
+        "repeat": 2,
+        "wall_s": 0.09751919796690345,
+        "cpu_s": 0.09751916199999999,
+        "event_latency_p50_ms": 0.07349113002419472,
+        "event_latency_p95_ms": 0.09628310799598694,
+        "realtime_factor": 615.2634686388941
+      },
+      {
+        "method": "fixed_gain",
+        "repeat": 3,
+        "wall_s": 0.09700010670349002,
+        "cpu_s": 0.09700065000000002,
+        "event_latency_p50_ms": 0.07325410842895508,
+        "event_latency_p95_ms": 0.09562682826071976,
+        "realtime_factor": 618.5560205970498
+      },
+      {
+        "method": "fixed_gain",
+        "repeat": 4,
+        "wall_s": 0.09938866319134831,
+        "cpu_s": 0.0993893509999999,
+        "event_latency_p50_ms": 0.07381918840110302,
+        "event_latency_p95_ms": 0.09877528063952923,
+        "realtime_factor": 603.6905827426698
+      },
+      {
+        "method": "fixed_gain",
+        "repeat": 5,
+        "wall_s": 0.0966056939214468,
+        "cpu_s": 0.09660598899999995,
+        "event_latency_p50_ms": 0.07317005656659603,
+        "event_latency_p95_ms": 0.09402378927916288,
+        "realtime_factor": 621.0814038434207
+      }
+    ],
+    "process_peak_rss_mib": 138.0,
+    "traced_allocation_peak_mib": 0.2657928466796875,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "kf_fixed",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "kf_fixed",
+        "repeat": 1,
+        "wall_s": 0.0976044787093997,
+        "cpu_s": 0.09760626800000005,
+        "event_latency_p50_ms": 0.07295352406799793,
+        "event_latency_p95_ms": 0.09599847253412007,
+        "realtime_factor": 614.7258895633214
+      },
+      {
+        "method": "kf_fixed",
+        "repeat": 2,
+        "wall_s": 0.09783983370289207,
+        "cpu_s": 0.09784057400000001,
+        "event_latency_p50_ms": 0.07296749390661716,
+        "event_latency_p95_ms": 0.10164801497012374,
+        "realtime_factor": 613.2471584344736
+      },
+      {
+        "method": "kf_fixed",
+        "repeat": 3,
+        "wall_s": 0.09752088785171509,
+        "cpu_s": 0.097521266,
+        "event_latency_p50_ms": 0.07301825098693371,
+        "event_latency_p95_ms": 0.0998295377939935,
+        "realtime_factor": 615.25280708306
+      },
+      {
+        "method": "kf_fixed",
+        "repeat": 4,
+        "wall_s": 0.09720190428197384,
+        "cpu_s": 0.09720230299999999,
+        "event_latency_p50_ms": 0.07274327799677849,
+        "event_latency_p95_ms": 0.09590284898877141,
+        "realtime_factor": 617.2718574107919
+      },
+      {
+        "method": "kf_fixed",
+        "repeat": 5,
+        "wall_s": 0.09707891894504428,
+        "cpu_s": 0.09707908700000001,
+        "event_latency_p50_ms": 0.07286597974598408,
+        "event_latency_p95_ms": 0.0943703344091772,
+        "realtime_factor": 618.0538540397797
+      }
+    ],
+    "process_peak_rss_mib": 138.5234375,
+    "traced_allocation_peak_mib": 0.26609039306640625,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "adaptive",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "adaptive",
+        "repeat": 1,
+        "wall_s": 0.09969082195311785,
+        "cpu_s": 0.09963122699999993,
+        "event_latency_p50_ms": 0.07395399734377861,
+        "event_latency_p95_ms": 0.09775352664291856,
+        "realtime_factor": 601.8608215329645
+      },
+      {
+        "method": "adaptive",
+        "repeat": 2,
+        "wall_s": 0.09946117084473372,
+        "cpu_s": 0.09946105300000008,
+        "event_latency_p50_ms": 0.07407227531075478,
+        "event_latency_p95_ms": 0.09590501431375736,
+        "realtime_factor": 603.2504895168031
+      },
+      {
+        "method": "adaptive",
+        "repeat": 3,
+        "wall_s": 0.09945549769327044,
+        "cpu_s": 0.09945579999999998,
+        "event_latency_p50_ms": 0.07403688505291939,
+        "event_latency_p95_ms": 0.0953336246311664,
+        "realtime_factor": 603.2849001977277
+      },
+      {
+        "method": "adaptive",
+        "repeat": 4,
+        "wall_s": 0.10134510323405266,
+        "cpu_s": 0.10134525699999997,
+        "event_latency_p50_ms": 0.07471651770174503,
+        "event_latency_p95_ms": 0.1024463213980197,
+        "realtime_factor": 592.0364979197099
+      },
+      {
+        "method": "adaptive",
+        "repeat": 5,
+        "wall_s": 0.09966730326414108,
+        "cpu_s": 0.09966714499999996,
+        "event_latency_p50_ms": 0.07414980791509151,
+        "event_latency_p95_ms": 0.0974278664216398,
+        "realtime_factor": 602.0028438111375
+      }
+    ],
+    "process_peak_rss_mib": 138.69140625,
+    "traced_allocation_peak_mib": 0.2678642272949219,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "no_imu",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "no_imu",
+        "repeat": 1,
+        "wall_s": 0.02877993369475007,
+        "cpu_s": 0.028780632000000028,
+        "event_latency_p50_ms": 0.01957174390554428,
+        "event_latency_p95_ms": 0.03555240109562873,
+        "realtime_factor": 2084.7859010510847
+      },
+      {
+        "method": "no_imu",
+        "repeat": 2,
+        "wall_s": 0.02882118010893464,
+        "cpu_s": 0.02881160099999991,
+        "event_latency_p50_ms": 0.019628554582595825,
+        "event_latency_p95_ms": 0.03497006837278598,
+        "realtime_factor": 2081.8023333263804
+      },
+      {
+        "method": "no_imu",
+        "repeat": 3,
+        "wall_s": 0.037235820665955544,
+        "cpu_s": 0.03723749300000001,
+        "event_latency_p50_ms": 0.019870232790708542,
+        "event_latency_p95_ms": 0.07333827670663594,
+        "realtime_factor": 1611.3516212859406
+      },
+      {
+        "method": "no_imu",
+        "repeat": 4,
+        "wall_s": 0.02861216478049755,
+        "cpu_s": 0.02861286900000004,
+        "event_latency_p50_ms": 0.019556842744350433,
+        "event_latency_p95_ms": 0.03416002728044983,
+        "realtime_factor": 2097.01015146176
+      },
+      {
+        "method": "no_imu",
+        "repeat": 5,
+        "wall_s": 0.02875560289248824,
+        "cpu_s": 0.028756726999999982,
+        "event_latency_p50_ms": 0.01960713416337967,
+        "event_latency_p95_ms": 0.03654405009001493,
+        "realtime_factor": 2086.549888184527
+      }
+    ],
+    "process_peak_rss_mib": 137.26171875,
+    "traced_allocation_peak_mib": 0.2668113708496094,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "no_adaptive",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "no_adaptive",
+        "repeat": 1,
+        "wall_s": 0.09992724703624845,
+        "cpu_s": 0.09992859499999995,
+        "event_latency_p50_ms": 0.07458869367837906,
+        "event_latency_p95_ms": 0.09728714358061548,
+        "realtime_factor": 600.4368355933502
+      },
+      {
+        "method": "no_adaptive",
+        "repeat": 2,
+        "wall_s": 0.09884423110634089,
+        "cpu_s": 0.09884414800000008,
+        "event_latency_p50_ms": 0.07382617332041264,
+        "event_latency_p95_ms": 0.0968138454481959,
+        "realtime_factor": 607.0156986243276
+      },
+      {
+        "method": "no_adaptive",
+        "repeat": 3,
+        "wall_s": 0.0990343289449811,
+        "cpu_s": 0.09903445799999999,
+        "event_latency_p50_ms": 0.0739984679967165,
+        "event_latency_p95_ms": 0.09347160812467331,
+        "realtime_factor": 605.8505231386304
+      },
+      {
+        "method": "no_adaptive",
+        "repeat": 4,
+        "wall_s": 0.09884632984176278,
+        "cpu_s": 0.09884669499999998,
+        "event_latency_p50_ms": 0.07379450835287571,
+        "event_latency_p95_ms": 0.09395300876349211,
+        "realtime_factor": 607.0028102818834
+      },
+      {
+        "method": "no_adaptive",
+        "repeat": 5,
+        "wall_s": 0.10030390089377761,
+        "cpu_s": 0.10030436700000012,
+        "event_latency_p50_ms": 0.07391883991658688,
+        "event_latency_p95_ms": 0.11849906295537947,
+        "realtime_factor": 598.1821191933535
+      }
+    ],
+    "process_peak_rss_mib": 138.87109375,
+    "traced_allocation_peak_mib": 0.2662010192871094,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "no_gate",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "no_gate",
+        "repeat": 1,
+        "wall_s": 0.09924890799447894,
+        "cpu_s": 0.09923495400000004,
+        "event_latency_p50_ms": 0.07364712655544281,
+        "event_latency_p95_ms": 0.09946958161890505,
+        "realtime_factor": 604.540656541407
+      },
+      {
+        "method": "no_gate",
+        "repeat": 2,
+        "wall_s": 0.09925443399697542,
+        "cpu_s": 0.09925467099999996,
+        "event_latency_p50_ms": 0.07380940951406956,
+        "event_latency_p95_ms": 0.09809143375605318,
+        "realtime_factor": 604.5069986679727
+      },
+      {
+        "method": "no_gate",
+        "repeat": 3,
+        "wall_s": 0.09898192109540105,
+        "cpu_s": 0.09898259300000001,
+        "event_latency_p50_ms": 0.07355352863669395,
+        "event_latency_p95_ms": 0.09648497216403479,
+        "realtime_factor": 606.171302152952
+      },
+      {
+        "method": "no_gate",
+        "repeat": 4,
+        "wall_s": 0.09926814492791891,
+        "cpu_s": 0.09926965900000018,
+        "event_latency_p50_ms": 0.07377099245786667,
+        "event_latency_p95_ms": 0.09616564493626356,
+        "realtime_factor": 604.4235040713968
+      },
+      {
+        "method": "no_gate",
+        "repeat": 5,
+        "wall_s": 0.09923739172518253,
+        "cpu_s": 0.09923892099999998,
+        "event_latency_p50_ms": 0.07372279651463032,
+        "event_latency_p95_ms": 0.09652478620409961,
+        "realtime_factor": 604.610812083389
+      }
+    ],
+    "process_peak_rss_mib": 139.08203125,
+    "traced_allocation_peak_mib": 0.2678642272949219,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "no_delay",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "no_delay",
+        "repeat": 1,
+        "wall_s": 0.10069404216483235,
+        "cpu_s": 0.10069545099999999,
+        "event_latency_p50_ms": 0.07487856782972813,
+        "event_latency_p95_ms": 0.10036672465503207,
+        "realtime_factor": 595.8644494753946
+      },
+      {
+        "method": "no_delay",
+        "repeat": 2,
+        "wall_s": 0.10987036488950253,
+        "cpu_s": 0.10987148499999999,
+        "event_latency_p50_ms": 0.0758129172027111,
+        "event_latency_p95_ms": 0.1349070109426975,
+        "realtime_factor": 546.0981226406453
+      },
+      {
+        "method": "no_delay",
+        "repeat": 3,
+        "wall_s": 0.10576415713876486,
+        "cpu_s": 0.10575659600000009,
+        "event_latency_p50_ms": 0.07492187432944775,
+        "event_latency_p95_ms": 0.12667730916291475,
+        "realtime_factor": 567.2999400097209
+      },
+      {
+        "method": "no_delay",
+        "repeat": 4,
+        "wall_s": 0.10334959579631686,
+        "cpu_s": 0.1033493379999999,
+        "event_latency_p50_ms": 0.07497449405491352,
+        "event_latency_p95_ms": 0.11879503726959229,
+        "realtime_factor": 580.5537945039381
+      },
+      {
+        "method": "no_delay",
+        "repeat": 5,
+        "wall_s": 0.10976871522143483,
+        "cpu_s": 0.10977068599999984,
+        "event_latency_p50_ms": 0.07557915523648262,
+        "event_latency_p95_ms": 0.13667980674654237,
+        "realtime_factor": 546.6038285950863
+      }
+    ],
+    "process_peak_rss_mib": 137.78515625,
+    "traced_allocation_peak_mib": 0.2678794860839844,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  },
+  {
+    "method": "filterpy",
+    "segment_id": "test_02",
+    "measurements": [
+      {
+        "method": "filterpy",
+        "repeat": 1,
+        "wall_s": 0.10234226286411285,
+        "cpu_s": 0.10234484499999996,
+        "event_latency_p50_ms": 0.07442478090524673,
+        "event_latency_p95_ms": 0.11826322879642248,
+        "realtime_factor": 586.2680609248038
+      },
+      {
+        "method": "filterpy",
+        "repeat": 2,
+        "wall_s": 0.10469711804762483,
+        "cpu_s": 0.10469769500000004,
+        "event_latency_p50_ms": 0.0748857855796814,
+        "event_latency_p95_ms": 0.12051574885845184,
+        "realtime_factor": 573.0816771165285
+      },
+      {
+        "method": "filterpy",
+        "repeat": 3,
+        "wall_s": 0.10462722694501281,
+        "cpu_s": 0.10462899400000003,
+        "event_latency_p50_ms": 0.0748767051845789,
+        "event_latency_p95_ms": 0.12093579862266779,
+        "realtime_factor": 573.4644963068093
+      },
+      {
+        "method": "filterpy",
+        "repeat": 4,
+        "wall_s": 0.10333220800384879,
+        "cpu_s": 0.10333379499999995,
+        "event_latency_p50_ms": 0.07475889287889004,
+        "event_latency_p95_ms": 0.11916367802768943,
+        "realtime_factor": 580.6514847506713
+      },
+      {
+        "method": "filterpy",
+        "repeat": 5,
+        "wall_s": 0.10375684127211571,
+        "cpu_s": 0.10374830599999996,
+        "event_latency_p50_ms": 0.07471931166946888,
+        "event_latency_p95_ms": 0.11968270409852266,
+        "realtime_factor": 578.2751215666084
+      }
+    ],
+    "process_peak_rss_mib": 137.6015625,
+    "traced_allocation_peak_mib": 0.27135467529296875,
+    "memory_scope": "fresh process includes interpreter, imports and loaded logs; allocation peak only the additional estimate call"
+  }
+]

@@ -1,0 +1,6 @@
+segment_id,start_s,end_s,purpose,n_ref
+tune_01,7.0,67.0,tune,60
+test_02,413.0,473.0,test,60
+test_03,1154.0,1214.0,test,60
+test_04,1894.0,1954.0,test,60
+test_05,2625.0,2685.0,test,60

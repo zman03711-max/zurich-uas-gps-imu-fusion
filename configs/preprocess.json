@@ -1,0 +1,41 @@
+{
+  "gps_period_s": 1.0,
+  "imu_match_tolerance_s": 0.15,
+  "max_imu_gap_s": 0.35,
+  "output_period_s": 0.1,
+  "position_weight": 0.2,
+  "velocity_weight": 0.2,
+  "accel_scale": 1.0,
+  "gyro_scale": 1.0,
+  "body_rotation": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "accel_bias_m_s2": [
+    0,
+    0,
+    0
+  ],
+  "gyro_bias_rad_s": [
+    0,
+    0,
+    0
+  ],
+  "initial_quaternion_xyzw": null,
+  "initial_attitude_source": "Raw causal acceleration tilt, GPS course for approximate initial yaw; no OnboardPose",
+  "conventions_verified": false,
+  "verification_evidence": "FRD/NED and units adopted as PX4 modeling assumptions; mounting and absolute yaw not independently calibrated"
+}

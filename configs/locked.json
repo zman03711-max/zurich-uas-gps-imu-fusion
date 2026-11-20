@@ -1,0 +1,16 @@
+{
+  "position_weight": 0.8,
+  "velocity_weight": 0.8,
+  "sigma_position": 1.0,
+  "sigma_velocity": 0.5,
+  "sigma_acceleration": 0.8,
+  "tilt_tau_s": 2.0,
+  "adaptive_cap": 100.0,
+  "nis_threshold": 5.991,
+  "max_gap_s": 0.35,
+  "output_period_s": 0.1,
+  "initialization_s": 5.0,
+  "gate_threshold": 100.0,
+  "delayed_velocity_sigma": 0.5,
+  "imu_acceleration_limit": 6.0
+}

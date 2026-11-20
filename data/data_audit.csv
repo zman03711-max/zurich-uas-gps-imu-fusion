@@ -1,0 +1,6 @@
+file,rows,columns,missing_cells,nonfinite_cells,t_min_us,t_max_us,duration_s,duplicate_timestamps,backwards,median_dt_s,p95_dt_s,max_gap_s
+OnboardGPS.csv,81169,14,0,0,7009129.0,2720692353.0,2713.683224,0.0,6.0,0.033333,0.035282,1.238748
+RawAccel.csv,27050,12,0,0,7090906.0,2720794657.0,2713.703751,0.0,0.0,0.1,0.101,1.1
+RawGyro.csv,27050,12,0,0,7089907.0,2720789699.0,2713.699792,0.0,0.0,0.1,0.101001,1.101011
+GroundTruthAGL.csv,2708,10,0,0,,,,,,,,
+BarometricPressure.csv,27052,5,0,0,7068959.0,2720760491.0,2713.691532,0.0,0.0,0.109425,0.121744,1.106937

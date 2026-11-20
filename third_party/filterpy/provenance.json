@@ -1,0 +1,6 @@
+{
+  "package": "filterpy",
+  "version": "1.4.5",
+  "source": "https://github.com/rlabbe/filterpy",
+  "kalman_source_sha256": "67be531e655dca69a6a6a36d788a5b50801b272d1740350ebdc72fae736018d3"
+}

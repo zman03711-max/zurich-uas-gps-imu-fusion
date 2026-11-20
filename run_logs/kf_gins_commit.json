@@ -1,0 +1,112 @@
+{
+  "sha": "8291a93e49de513fe9d21f819500d39082ded611",
+  "node_id": "C_kwDOIOXU8doAKDgyOTFhOTNlNDlkZTUxM2ZlOWQyMWY4MTk1MDBkMzkwODJkZWQ2MTE",
+  "commit": {
+    "author": {
+      "name": "liqiang",
+      "email": "wlq@whu.edu.cn",
+      "date": "2026-06-10T04:39:11Z"
+    },
+    "committer": {
+      "name": "liqiang",
+      "email": "wlq@whu.edu.cn",
+      "date": "2026-06-10T04:39:11Z"
+    },
+    "message": "fix a bug of gnss velocity equation in the algorithm docs",
+    "tree": {
+      "sha": "6d255a9c2c909ec9348a4bd37ec8eaf6f33f50b7",
+      "url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/git/trees/6d255a9c2c909ec9348a4bd37ec8eaf6f33f50b7"
+    },
+    "url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/git/commits/8291a93e49de513fe9d21f819500d39082ded611",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/commits/8291a93e49de513fe9d21f819500d39082ded611",
+  "html_url": "https://github.com/i2Nav-WHU/KF-GINS/commit/8291a93e49de513fe9d21f819500d39082ded611",
+  "comments_url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/commits/8291a93e49de513fe9d21f819500d39082ded611/comments",
+  "author": {
+    "login": "wang-lq",
+    "id": 33362733,
+    "node_id": "MDQ6VXNlcjMzMzYyNzMz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33362733?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wang-lq",
+    "html_url": "https://github.com/wang-lq",
+    "followers_url": "https://api.github.com/users/wang-lq/followers",
+    "following_url": "https://api.github.com/users/wang-lq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wang-lq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wang-lq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wang-lq/subscriptions",
+    "organizations_url": "https://api.github.com/users/wang-lq/orgs",
+    "repos_url": "https://api.github.com/users/wang-lq/repos",
+    "events_url": "https://api.github.com/users/wang-lq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wang-lq/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "wang-lq",
+    "id": 33362733,
+    "node_id": "MDQ6VXNlcjMzMzYyNzMz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/33362733?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wang-lq",
+    "html_url": "https://github.com/wang-lq",
+    "followers_url": "https://api.github.com/users/wang-lq/followers",
+    "following_url": "https://api.github.com/users/wang-lq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wang-lq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wang-lq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wang-lq/subscriptions",
+    "organizations_url": "https://api.github.com/users/wang-lq/orgs",
+    "repos_url": "https://api.github.com/users/wang-lq/repos",
+    "events_url": "https://api.github.com/users/wang-lq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wang-lq/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "f39bc2e7be8a47eb3bf8ba1dbcb0bf4e7a3edd6a",
+      "url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/commits/f39bc2e7be8a47eb3bf8ba1dbcb0bf4e7a3edd6a",
+      "html_url": "https://github.com/i2Nav-WHU/KF-GINS/commit/f39bc2e7be8a47eb3bf8ba1dbcb0bf4e7a3edd6a"
+    }
+  ],
+  "stats": {
+    "total": 18,
+    "additions": 9,
+    "deletions": 9
+  },
+  "files": [
+    {
+      "sha": "85fa4dd6101b496605388424aeb2972550a91b27",
+      "filename": "docs/kf-gins-algorithm-docs.pdf",
+      "status": "modified",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/i2Nav-WHU/KF-GINS/blob/8291a93e49de513fe9d21f819500d39082ded611/docs%2Fkf-gins-algorithm-docs.pdf",
+      "raw_url": "https://github.com/i2Nav-WHU/KF-GINS/raw/8291a93e49de513fe9d21f819500d39082ded611/docs%2Fkf-gins-algorithm-docs.pdf",
+      "contents_url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/contents/docs%2Fkf-gins-algorithm-docs.pdf?ref=8291a93e49de513fe9d21f819500d39082ded611"
+    },
+    {
+      "sha": "0842606965c08b37a5be3dc5d17c60a110b66a44",
+      "filename": "docs/kf-gins-algorithm-docs.tex",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 9,
+      "changes": 18,
+      "blob_url": "https://github.com/i2Nav-WHU/KF-GINS/blob/8291a93e49de513fe9d21f819500d39082ded611/docs%2Fkf-gins-algorithm-docs.tex",
+      "raw_url": "https://github.com/i2Nav-WHU/KF-GINS/raw/8291a93e49de513fe9d21f819500d39082ded611/docs%2Fkf-gins-algorithm-docs.tex",
+      "contents_url": "https://api.github.com/repos/i2Nav-WHU/KF-GINS/contents/docs%2Fkf-gins-algorithm-docs.tex?ref=8291a93e49de513fe9d21f819500d39082ded611",
+      "patch": "@@ -620,17 +620,17 @@ \\subsection{GNSS Velocity Observation Equation}\n Differentiating Eq.\\eqref{eq:gnss-antenna-position-from-imu-position} with respect to time, we obtain the GNSS antenna phase center velocity expressed in terms of the IMU velocity:\n \\begin{equation}\n     \\label{eq:gnss-antenna-velocity-from-imu-velocity}\n-    \\boldsymbol{v}_{G}^{\\mathrm{n}} = \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\omega}_{\\mathrm{n} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\n+    \\boldsymbol{v}_{G}^{\\mathrm{n}} = \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\omega}_{\\mathrm{e} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\n \\end{equation}\n-where $\\boldsymbol{\\omega}_{\\mathrm{n} \\mathrm{b}}^{\\mathrm{b}} = \\boldsymbol{\\omega}_{\\mathrm{i} \\mathrm{b}}^{\\mathrm{b}} - \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}}$. \n+where $\\boldsymbol{\\omega}_{\\mathrm{e} \\mathrm{b}}^{\\mathrm{b}} = \\boldsymbol{\\omega}_{\\mathrm{i} \\mathrm{b}}^{\\mathrm{b}} - \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}}$. \n \n The GNSS-measured velocity is expressed as $\\tilde{\\boldsymbol{v}}_{G}^{\\mathrm{n}} = \\boldsymbol{v}_{G}^{\\mathrm{n}} - \\boldsymbol{n}_{v}$, and the covariance of the velocity measurement noise $\\boldsymbol{n}_{v}$ is denoted as $\\boldsymbol{R}_{v}$.\n \n Substituting the error defination from Sec.\\ref{subsec:error-definition-and-system-state-vector} into Eq.\\eqref{eq:gnss-antenna-velocity-from-imu-velocity}, we obtain the GNSS velocity measurement vector:\n \\begin{equation}\n     \\begin{aligned}\n     \\delta \\boldsymbol{z}_{v}^{\\mathrm{n}} =& \\hat{\\boldsymbol{r}}_{G}^{\\mathrm{n}} - \\tilde{\\boldsymbol{r}}_{G}^{\\mathrm{n}} \\\\\n-    \\delta \\boldsymbol{z}_{v}^{\\mathrm{n}} \\approx& \\delta \\boldsymbol{v}^{\\mathrm{n}} - \\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}}\\times \\left(\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\\right)\\times \\boldsymbol{\\phi} - \\left[\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}\\right)\\right]\\times \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\right) \\delta \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}} + \\boldsymbol{n}_{v} \\\\\n+    \\delta \\boldsymbol{z}_{v}^{\\mathrm{n}} \\approx& \\delta \\boldsymbol{v}^{\\mathrm{n}} - \\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}}\\times \\left(\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\\right)\\times \\boldsymbol{\\phi} - \\left[\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}\\right)\\right]\\times \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\right) \\delta \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}} + \\boldsymbol{n}_{v} \\\\\n     \\delta \\boldsymbol{z}_{v}^{\\mathrm{n}} =& \\boldsymbol{H}_{v} \\delta \\boldsymbol{x} + \\boldsymbol{n}_{v}\n     \\end{aligned}\n \\end{equation}\n@@ -640,7 +640,7 @@ \\subsection{GNSS Velocity Observation Equation}\n         \\boldsymbol{0}_3 & \\boldsymbol{I}_3 & \\boldsymbol{H}_{v,3} & -\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\right) & \\boldsymbol{0}_3 & -\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\right) \\operatorname{diag}(\\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}) & \\boldsymbol{0}_3\n     \\end{bmatrix}\n \\end{equation}\n-where $\\boldsymbol{H}_{v,3} = - \\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}}\\times \\left(\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\\right)\\times  - \\left[\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}\\right)\\right]\\times $.\n+where $\\boldsymbol{H}_{v,3} = - \\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}}\\times \\left(\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\boldsymbol{\\ell}_{ant}^{\\mathrm{b}}\\right)\\times  - \\left[\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\ell}_{ant}^{\\mathrm{b}} \\times \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}\\right)\\right]\\times $.\n \n The GNSS velocity measurement model is then employed to perform the system update by Eq.\\eqref{eq:kalman-update-equation}.\n \n@@ -652,8 +652,8 @@ \\subsection{ODO/NHC Observation Equation}\n \\begin{equation}\n     \\label{eq:odo-nhc-velocity-predicted-by-ins-velocity}\n     \\begin{aligned}\n-        \\boldsymbol{v}_{odo,nhc}^{\\mathrm{v}} =& \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\omega}_{\\mathrm{n} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\right) \\\\\n-        \\boldsymbol{v}_{odo,nhc}^{\\mathrm{v}} =& \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\omega}_{\\mathrm{n} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{odo}^{\\mathrm{b}}\n+        \\boldsymbol{v}_{odo,nhc}^{\\mathrm{v}} =& \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{n}} \\left(\\boldsymbol{\\omega}_{\\mathrm{e} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\right) \\\\\n+        \\boldsymbol{v}_{odo,nhc}^{\\mathrm{v}} =& \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\boldsymbol{v}_{I}^{\\mathrm{n}} + \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\omega}_{\\mathrm{e} \\mathrm{b}}^{\\mathrm{b}} \\times \\right) \\boldsymbol{\\ell}_{odo}^{\\mathrm{b}}\n     \\end{aligned}\n \\end{equation}\n where $\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}}$ is the rotation matrix between the body and vehicle frames, and $\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}}$ is the odometer lever arm in the body frame.\n@@ -662,17 +662,17 @@ \\subsection{ODO/NHC Observation Equation}\n \\begin{equation}\n     \\begin{aligned}\n     \\delta \\boldsymbol{z}_{odo,nhc}^{\\mathrm{v}} =& \\hat{\\boldsymbol{v}}_{odo,nhc}^{\\mathrm{v}} - \\tilde{\\boldsymbol{v}}_{odo,nhc}^{\\mathrm{v}} \\\\ \n-    \\delta \\boldsymbol{z}_{odo,nhc}^{\\mathrm{v}} \\approx &  \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\delta \\boldsymbol{v}^{\\mathrm{n}} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left(\\boldsymbol{v}^{\\mathrm{n}} \\times\\right) \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}} \\times \\right) \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\delta \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}} + \\boldsymbol{n}_{odo,nhc} \\\\\n+    \\delta \\boldsymbol{z}_{odo,nhc}^{\\mathrm{v}} \\approx &  \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\delta \\boldsymbol{v}^{\\mathrm{n}} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left(\\boldsymbol{v}^{\\mathrm{n}} \\times\\right) \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}} \\times \\right) \\boldsymbol{\\phi} - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\delta \\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}} + \\boldsymbol{n}_{odo,nhc} \\\\\n     \\delta \\boldsymbol{z}_{odo,nhc}^{\\mathrm{v}} =& \\boldsymbol{H}_{odo,nhc} \\delta \\boldsymbol{x} + \\boldsymbol{n}_{odo,nhc}\n     \\end{aligned}\n \\end{equation}\n-where the error-state of $\\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}}$ is also neglected, and the ODO/NHC measurement matrix $\\boldsymbol{H}_{odo,nhc}$ is given by:\n+where the error-state of $\\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}}$ is also neglected, and the ODO/NHC measurement matrix $\\boldsymbol{H}_{odo,nhc}$ is given by:\n \\begin{equation}\n     \\boldsymbol{H}_{odo,nhc} = \\begin{bmatrix}\n         \\boldsymbol{0}_3 & \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} & \\boldsymbol{H}_{odo,nhc,3} & -\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) & \\boldsymbol{0}_3 & -\\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\operatorname{diag}(\\boldsymbol{\\omega}_{\\mathrm{ib}}^{\\mathrm{b}}) & \\boldsymbol{0}_3\n     \\end{bmatrix}\n \\end{equation}\n-where $\\boldsymbol{H}_{odo,nhc,3} = - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left(\\boldsymbol{v}^{\\mathrm{n}} \\times\\right) - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{\\omega}_{\\mathrm{in}}^{\\mathrm{n}} \\times \\right)$.\n+where $\\boldsymbol{H}_{odo,nhc,3} = - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left(\\boldsymbol{v}^{\\mathrm{n}} \\times\\right) - \\mathbf{C}_{\\mathrm{b}}^{\\mathrm{v}} \\left(\\boldsymbol{\\ell}_{odo}^{\\mathrm{b}} \\times \\right) \\mathbf{C}_{\\mathrm{n}}^{\\mathrm{b}} \\left( \\boldsymbol{\\omega}_{\\mathrm{ie}}^{\\mathrm{n}} \\times \\right)$.\n \n Finally, the ODO/NHC velocity measurement model is employed in Eq.\\eqref{eq:kalman-update-equation} to update the system state vector and covariance matrix.\n "
+    }
+  ]
+}

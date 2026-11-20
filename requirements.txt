@@ -1,0 +1,8 @@
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+pyproj==3.7.1
+matplotlib==3.10.1
+filterpy==1.4.5
+psutil==7.0.0
+pyyaml==6.0.2

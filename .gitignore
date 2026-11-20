@@ -1,0 +1,29 @@
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# --- 可再生的中间实验产物（由 workflow.py 重新生成）---
+# 每场景/种子逐点轨迹与更新明细，占用数百 MB，不入库
+results/test_0*/
+results/position_only/test_0*/
+results/public_baseline/*/test_0*/
+
+# KF-GINS 在 AGZ 各场景上的逐点运行中间产物（可再生成）
+# 官方示例复现证据保留在 results/public_demo/ 中
+results/public_baseline/test_0*/
+
+# 大型逐点误差明细（可由脚本重建）
+results/errors.csv
+results/position_only_errors.csv
+results/public_errors.csv
+
+# 本地运行日志（保留 requirements.lock.txt 即可）
+run_logs/*.log
+
+# --- 系统 ---
+.DS_Store
+Thumbs.db
+*.tmp

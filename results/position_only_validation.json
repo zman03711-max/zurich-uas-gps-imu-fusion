@@ -1,0 +1,18 @@
+[
+  {
+    "segment_id": "test_02",
+    "max_effect_of_1000_m_s_velocity_change": 6.448175327022909e-13
+  },
+  {
+    "segment_id": "test_03",
+    "max_effect_of_1000_m_s_velocity_change": 5.400124791776761e-13
+  },
+  {
+    "segment_id": "test_04",
+    "max_effect_of_1000_m_s_velocity_change": 6.821210263296962e-13
+  },
+  {
+    "segment_id": "test_05",
+    "max_effect_of_1000_m_s_velocity_change": 3.410605131648481e-13
+  }
+]

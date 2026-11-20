@@ -1,0 +1,2130 @@
+[
+  {
+    "segment_id": "test_02",
+    "scenario_id": "normal",
+    "family": "normal",
+    "strength": 0.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_1_at_20",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 20,
+    "window": [
+      433.0,
+      434.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_1_at_40",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 40,
+    "window": [
+      453.0,
+      454.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_3_at_20",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 20,
+    "window": [
+      433.0,
+      436.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_3_at_40",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 40,
+    "window": [
+      453.0,
+      456.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_5_at_20",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 20,
+    "window": [
+      433.0,
+      438.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_5_at_40",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 40,
+    "window": [
+      453.0,
+      458.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_11",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_22",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_33",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_44",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_55",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_11",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_22",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_33",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_44",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_55",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_11",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_22",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_33",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_44",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_55",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "delay_0.2",
+    "family": "delay",
+    "strength": 0.2,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "delay_0.5",
+    "family": "delay",
+    "strength": 0.5,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "delay_1.0",
+    "family": "delay",
+    "strength": 1.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_10",
+    "family": "outlier",
+    "strength": 10,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_20",
+    "family": "outlier",
+    "strength": 20,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_50",
+    "family": "outlier",
+    "strength": 50,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_drop_1",
+    "family": "imu_dropout",
+    "strength": 1,
+    "seed": 0,
+    "window": [
+      433.0,
+      434.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_drop_3",
+    "family": "imu_dropout",
+    "strength": 3,
+    "seed": 0,
+    "window": [
+      433.0,
+      436.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_drop_5",
+    "family": "imu_dropout",
+    "strength": 5,
+    "seed": 0,
+    "window": [
+      433.0,
+      438.0
+    ]
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.2_seed_11",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.2_seed_22",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.2_seed_33",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.2_seed_44",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.2_seed_55",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.5_seed_11",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.5_seed_22",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.5_seed_33",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.5_seed_44",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_0.5_seed_55",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_1.0_seed_11",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_1.0_seed_22",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_1.0_seed_33",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_1.0_seed_44",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "imu_noise_1.0_seed_55",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_drop_noise_11",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 11,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_noise_delay_11",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 11,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_imu_drop_11",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 11,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_drop_noise_22",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 22,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_noise_delay_22",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 22,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_imu_drop_22",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 22,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_drop_noise_33",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 33,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_noise_delay_33",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 33,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_imu_drop_33",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 33,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_drop_noise_44",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 44,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_noise_delay_44",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 44,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_imu_drop_44",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 44,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_drop_noise_55",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 55,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_noise_delay_55",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 55,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_imu_drop_55",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 55,
+    "window": [
+      433.0,
+      438.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "combo_outlier_delay",
+    "family": "combo_outlier_delay",
+    "strength": 20.0,
+    "seed": 0,
+    "outlier_m": 20.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "normal",
+    "family": "normal",
+    "strength": 0.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_1_at_20",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 20,
+    "window": [
+      1174.0,
+      1175.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_1_at_40",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 40,
+    "window": [
+      1194.0,
+      1195.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_3_at_20",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 20,
+    "window": [
+      1174.0,
+      1177.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_3_at_40",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 40,
+    "window": [
+      1194.0,
+      1197.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_5_at_20",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 20,
+    "window": [
+      1174.0,
+      1179.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_5_at_40",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 40,
+    "window": [
+      1194.0,
+      1199.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_11",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_22",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_33",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_44",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_55",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_11",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_22",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_33",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_44",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_55",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_11",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_22",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_33",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_44",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_55",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "delay_0.2",
+    "family": "delay",
+    "strength": 0.2,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "delay_0.5",
+    "family": "delay",
+    "strength": 0.5,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "delay_1.0",
+    "family": "delay",
+    "strength": 1.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_10",
+    "family": "outlier",
+    "strength": 10,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_20",
+    "family": "outlier",
+    "strength": 20,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_50",
+    "family": "outlier",
+    "strength": 50,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_drop_1",
+    "family": "imu_dropout",
+    "strength": 1,
+    "seed": 0,
+    "window": [
+      1174.0,
+      1175.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_drop_3",
+    "family": "imu_dropout",
+    "strength": 3,
+    "seed": 0,
+    "window": [
+      1174.0,
+      1177.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_drop_5",
+    "family": "imu_dropout",
+    "strength": 5,
+    "seed": 0,
+    "window": [
+      1174.0,
+      1179.0
+    ]
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.2_seed_11",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.2_seed_22",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.2_seed_33",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.2_seed_44",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.2_seed_55",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.5_seed_11",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.5_seed_22",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.5_seed_33",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.5_seed_44",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_0.5_seed_55",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_1.0_seed_11",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_1.0_seed_22",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_1.0_seed_33",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_1.0_seed_44",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "imu_noise_1.0_seed_55",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_drop_noise_11",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 11,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_noise_delay_11",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 11,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_imu_drop_11",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 11,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_drop_noise_22",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 22,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_noise_delay_22",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 22,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_imu_drop_22",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 22,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_drop_noise_33",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 33,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_noise_delay_33",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 33,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_imu_drop_33",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 33,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_drop_noise_44",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 44,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_noise_delay_44",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 44,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_imu_drop_44",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 44,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_drop_noise_55",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 55,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_noise_delay_55",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 55,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_imu_drop_55",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 55,
+    "window": [
+      1174.0,
+      1179.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "combo_outlier_delay",
+    "family": "combo_outlier_delay",
+    "strength": 20.0,
+    "seed": 0,
+    "outlier_m": 20.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "normal",
+    "family": "normal",
+    "strength": 0.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_1_at_20",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 20,
+    "window": [
+      1914.0,
+      1915.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_1_at_40",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 40,
+    "window": [
+      1934.0,
+      1935.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_3_at_20",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 20,
+    "window": [
+      1914.0,
+      1917.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_3_at_40",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 40,
+    "window": [
+      1934.0,
+      1937.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_5_at_20",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 20,
+    "window": [
+      1914.0,
+      1919.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_5_at_40",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 40,
+    "window": [
+      1934.0,
+      1939.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_11",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_22",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_33",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_44",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_55",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_11",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_22",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_33",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_44",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_55",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_11",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_22",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_33",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_44",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_55",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "delay_0.2",
+    "family": "delay",
+    "strength": 0.2,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "delay_0.5",
+    "family": "delay",
+    "strength": 0.5,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "delay_1.0",
+    "family": "delay",
+    "strength": 1.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_10",
+    "family": "outlier",
+    "strength": 10,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_20",
+    "family": "outlier",
+    "strength": 20,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_50",
+    "family": "outlier",
+    "strength": 50,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_drop_1",
+    "family": "imu_dropout",
+    "strength": 1,
+    "seed": 0,
+    "window": [
+      1914.0,
+      1915.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_drop_3",
+    "family": "imu_dropout",
+    "strength": 3,
+    "seed": 0,
+    "window": [
+      1914.0,
+      1917.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_drop_5",
+    "family": "imu_dropout",
+    "strength": 5,
+    "seed": 0,
+    "window": [
+      1914.0,
+      1919.0
+    ]
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.2_seed_11",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.2_seed_22",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.2_seed_33",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.2_seed_44",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.2_seed_55",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.5_seed_11",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.5_seed_22",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.5_seed_33",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.5_seed_44",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_0.5_seed_55",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_1.0_seed_11",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_1.0_seed_22",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_1.0_seed_33",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_1.0_seed_44",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "imu_noise_1.0_seed_55",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_drop_noise_11",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 11,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_noise_delay_11",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 11,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_imu_drop_11",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 11,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_drop_noise_22",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 22,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_noise_delay_22",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 22,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_imu_drop_22",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 22,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_drop_noise_33",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 33,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_noise_delay_33",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 33,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_imu_drop_33",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 33,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_drop_noise_44",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 44,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_noise_delay_44",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 44,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_imu_drop_44",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 44,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_drop_noise_55",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 55,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_noise_delay_55",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 55,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_imu_drop_55",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 55,
+    "window": [
+      1914.0,
+      1919.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "combo_outlier_delay",
+    "family": "combo_outlier_delay",
+    "strength": 20.0,
+    "seed": 0,
+    "outlier_m": 20.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "normal",
+    "family": "normal",
+    "strength": 0.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_1_at_20",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 20,
+    "window": [
+      2645.0,
+      2646.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_1_at_40",
+    "family": "dropout",
+    "strength": 1.0,
+    "seed": 40,
+    "window": [
+      2665.0,
+      2666.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_3_at_20",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 20,
+    "window": [
+      2645.0,
+      2648.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_3_at_40",
+    "family": "dropout",
+    "strength": 3.0,
+    "seed": 40,
+    "window": [
+      2665.0,
+      2668.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_5_at_20",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 20,
+    "window": [
+      2645.0,
+      2650.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_5_at_40",
+    "family": "dropout",
+    "strength": 5.0,
+    "seed": 40,
+    "window": [
+      2665.0,
+      2670.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_11",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_22",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_33",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_44",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_55",
+    "family": "noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_11",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_22",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_33",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_44",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_55",
+    "family": "noise",
+    "strength": 3.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_11",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_22",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_33",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_44",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_55",
+    "family": "noise",
+    "strength": 5.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "delay_0.2",
+    "family": "delay",
+    "strength": 0.2,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "delay_0.5",
+    "family": "delay",
+    "strength": 0.5,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "delay_1.0",
+    "family": "delay",
+    "strength": 1.0,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_10",
+    "family": "outlier",
+    "strength": 10,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_20",
+    "family": "outlier",
+    "strength": 20,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_50",
+    "family": "outlier",
+    "strength": 50,
+    "seed": 0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_drop_1",
+    "family": "imu_dropout",
+    "strength": 1,
+    "seed": 0,
+    "window": [
+      2645.0,
+      2646.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_drop_3",
+    "family": "imu_dropout",
+    "strength": 3,
+    "seed": 0,
+    "window": [
+      2645.0,
+      2648.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_drop_5",
+    "family": "imu_dropout",
+    "strength": 5,
+    "seed": 0,
+    "window": [
+      2645.0,
+      2650.0
+    ]
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.2_seed_11",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.2_seed_22",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.2_seed_33",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.2_seed_44",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.2_seed_55",
+    "family": "imu_noise",
+    "strength": 0.2,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.5_seed_11",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.5_seed_22",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.5_seed_33",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.5_seed_44",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_0.5_seed_55",
+    "family": "imu_noise",
+    "strength": 0.5,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_1.0_seed_11",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 11
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_1.0_seed_22",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 22
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_1.0_seed_33",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 33
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_1.0_seed_44",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 44
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "imu_noise_1.0_seed_55",
+    "family": "imu_noise",
+    "strength": 1.0,
+    "seed": 55
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_drop_noise_11",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 11,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_noise_delay_11",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 11,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_imu_drop_11",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 11,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_drop_noise_22",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 22,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_noise_delay_22",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 22,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_imu_drop_22",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 22,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_drop_noise_33",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 33,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_noise_delay_33",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 33,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_imu_drop_33",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 33,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_drop_noise_44",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 44,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_noise_delay_44",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 44,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_imu_drop_44",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 44,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_drop_noise_55",
+    "family": "combo_dropout_noise",
+    "strength": 3.0,
+    "seed": 55,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "gps_noise_m": 3.0
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_noise_delay_55",
+    "family": "combo_noise_delay",
+    "strength": 3.0,
+    "seed": 55,
+    "gps_noise_m": 3.0,
+    "delay_s": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_imu_drop_55",
+    "family": "combo_imu_noise_dropout",
+    "strength": 0.5,
+    "seed": 55,
+    "window": [
+      2645.0,
+      2650.0
+    ],
+    "imu_noise_m_s2": 0.5
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "combo_outlier_delay",
+    "family": "combo_outlier_delay",
+    "strength": 20.0,
+    "seed": 0,
+    "outlier_m": 20.0,
+    "delay_s": 0.5
+  }
+]

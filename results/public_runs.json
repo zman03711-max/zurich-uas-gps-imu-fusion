@@ -1,0 +1,702 @@
+[
+  {
+    "segment_id": "test_02",
+    "scenario_id": "normal",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025900527834892273,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_1_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02652999758720398,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_1_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025939438957720995,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_3_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025614343117922544,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_3_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02592069609090686,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_5_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025666543748229742,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "drop_5_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025466430000960827,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025228589307516813,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026659676805138588,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025457916781306267,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025896494276821613,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_1_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02584285195916891,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025738311931490898,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025682806968688965,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025344036985188723,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025483430828899145,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_3_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025476761162281036,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02539173699915409,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025496653746813536,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02542891912162304,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025708052795380354,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "noise_5_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025367312133312225,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_10",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025168418884277344,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.028808875009417534,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_02",
+    "scenario_id": "outlier_50",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02583405701443553,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "normal",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025919131934642792,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_1_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025192939210683107,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_1_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.028749267105013132,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_3_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025584436021745205,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_3_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025628389790654182,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_5_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025423159822821617,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "drop_5_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02528929803520441,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025256387889385223,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025419797282665968,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025200190022587776,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025369504932314157,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_1_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025772432796657085,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025436726864427328,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025368914008140564,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025387353729456663,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026370844338089228,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_3_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025642715860158205,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026261293329298496,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026074250228703022,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.028607176151126623,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02594406297430396,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "noise_5_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.027850502636283636,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_10",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026004608720541,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026619717944413424,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_03",
+    "scenario_id": "outlier_50",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025925263296812773,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "normal",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026395930908620358,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_1_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02662336127832532,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_1_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026114806067198515,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_3_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025830930098891258,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_3_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02689919201657176,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_5_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.0259257135912776,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "drop_5_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.027357446029782295,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02796703577041626,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026183604262769222,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026335495989769697,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.029249087907373905,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_1_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026909141801297665,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025975259020924568,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.0260240500792861,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02660616021603346,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026475835125893354,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_3_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026483315974473953,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.027095744851976633,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02637499524280429,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02634705789387226,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026350866071879864,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "noise_5_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025861611124128103,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_10",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02593435626477003,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026765129063278437,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_04",
+    "scenario_id": "outlier_50",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026309647131711245,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "normal",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026118905283510685,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_1_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.027002643328160048,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_1_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02684788079932332,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_3_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026308581698685884,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_3_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02632297109812498,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_5_at_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025890905875712633,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "drop_5_at_40",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026117832865566015,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026414924301207066,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02631022408604622,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026020981837064028,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026897831354290247,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_1_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02599532390013337,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025808777660131454,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.02824339596554637,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025978917721658945,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025824174284934998,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_3_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025778048671782017,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_11",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.030603913124650717,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_22",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025874515995383263,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_33",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.026347894687205553,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_44",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025784483179450035,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "noise_5_seed_55",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025767046958208084,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_10",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025487817358225584,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_20",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025583949871361256,
+    "rows": 601
+  },
+  {
+    "segment_id": "test_05",
+    "scenario_id": "outlier_50",
+    "status": "ok",
+    "cpp_end_to_end_s": 0.025470938067883253,
+    "rows": 601
+  }
+]

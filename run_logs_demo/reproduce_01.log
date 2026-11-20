@@ -1,0 +1,16 @@
+
+test_bad_csv_and_large_integer_time (__main__.Pipeline.test_bad_csv_and_large_integer_time) ... ok
+test_constant_velocity_all_methods (__main__.Pipeline.test_constant_velocity_all_methods) ... ok
+test_dropout_masks_both_gps_components (__main__.Pipeline.test_dropout_masks_both_gps_components) ... ok
+test_filterpy_independent_equivalence (__main__.Pipeline.test_filterpy_independent_equivalence) ... ok
+test_future_cannot_change_past (__main__.Pipeline.test_future_cannot_change_past) ... ok
+test_gravity_three_axes (__main__.Pipeline.test_gravity_three_axes) ... ok
+test_imu_missing_graceful_fallback (__main__.Pipeline.test_imu_missing_graceful_fallback) ... ok
+test_known_horizontal_and_3d_error (__main__.Pipeline.test_known_horizontal_and_3d_error) ... ok
+test_latency_compensation_uses_velocity_not_future (__main__.Pipeline.test_latency_compensation_uses_velocity_not_future) ... ok
+test_position_spike_rejected_velocity_retained (__main__.Pipeline.test_position_spike_rejected_velocity_retained) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.277s
+
+OK
